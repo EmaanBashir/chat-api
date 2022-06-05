@@ -1,2 +1,2 @@
 # chat-api
-chat application using react
+chat application using python and react
